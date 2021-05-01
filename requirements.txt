@@ -1,0 +1,4 @@
+tensorflow>=2.3,<3
+tomni>=1,<2
+matplotlib>=3.3.2,<4
+opencv-python>=4.4,<5
